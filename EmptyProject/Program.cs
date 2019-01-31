@@ -11,7 +11,6 @@ namespace EmptyProject
             try
             {
                 string input = Console.ReadLine();
-                int user_input = int.Parse(input);
             }
             catch
             {
